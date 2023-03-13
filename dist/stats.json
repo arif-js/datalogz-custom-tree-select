@@ -1,21 +1,21 @@
 {
-  "hash": "2a354f39574f3a999372",
+  "hash": "5fe9d25c979c85b22d18",
   "version": "5.75.0",
-  "time": 3323,
-  "builtAt": 1678686870643,
+  "time": 3493,
+  "builtAt": 1678687679817,
   "publicPath": "auto",
   "outputPath": "/home/arif/Desktop/react-dropdown-tree-select-main/dist",
   "assetsByChunkName": {
-    "react-dropdown-tree-select": [
+    "react-dropdown-tree-select-wrapper": [
       "styles.css",
-      "react-dropdown-tree-select.js"
+      "react-dropdown-tree-select-wrapper.js"
     ]
   },
   "assets": [
     {
       "type": "asset",
       "name": "react-dropdown-tree-select-wrapper.js",
-      "size": 76434,
+      "size": 76450,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -26,7 +26,7 @@
           "license": "react-dropdown-tree-select-wrapper.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select-wrapper.js.map"
         },
-        "size": 76434
+        "size": 76450
       },
       "chunkNames": [
         "react-dropdown-tree-select-wrapper"
@@ -39,13 +39,13 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147057,
+          "size": 147065,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 147057
+            "size": 147065
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -56,7 +56,7 @@
           "related": {},
           "chunks": [],
           "auxiliaryChunks": [
-            27
+            718
           ],
           "isOverSizeLimit": false
         },
@@ -82,7 +82,7 @@
         }
       ],
       "chunks": [
-        27
+        718
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -149,13 +149,13 @@
           "related": {},
           "chunks": [],
           "auxiliaryChunks": [
-            27
+            718
           ],
           "isOverSizeLimit": false
         }
       ],
       "chunks": [
-        27
+        718
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -178,19 +178,19 @@
       ],
       "idHints": [],
       "runtime": [
-        "react-dropdown-tree-select"
+        "react-dropdown-tree-select-wrapper"
       ],
       "files": [
         "styles.css",
-        "react-dropdown-tree-select.js"
+        "react-dropdown-tree-select-wrapper.js"
       ],
       "auxiliaryFiles": [
-        "react-dropdown-tree-select.js.map",
+        "react-dropdown-tree-select-wrapper.js.map",
         "styles.css.map"
       ],
-      "hash": "5db05b46cd36cc0ed6c3",
+      "hash": "18c38d8d727b4d64e073",
       "childrenByOrder": {},
-      "id": 27,
+      "id": 718,
       "siblings": [],
       "parents": [],
       "children": [],
@@ -243,7 +243,7 @@
           "id": 865,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -370,7 +370,7 @@
           "id": 703,
           "issuerId": 697,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -450,7 +450,7 @@
           "id": 697,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -4250,7 +4250,7 @@
           "id": 414,
           "issuerId": 703,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -4335,7 +4335,7 @@
           "id": 385,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -4462,7 +4462,7 @@
           "warnings": 0,
           "id": 442,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -4476,7 +4476,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./src/index.js",
-              "loc": "react-dropdown-tree-select",
+              "loc": "react-dropdown-tree-select-wrapper",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -7345,7 +7345,7 @@
           "id": null,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -7422,7 +7422,7 @@
           "id": null,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -7494,7 +7494,7 @@
           "id": null,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -7571,7 +7571,7 @@
           "id": null,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -7633,7 +7633,7 @@
           "id": 787,
           "issuerId": null,
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [
@@ -9310,7 +9310,7 @@
           "warnings": 0,
           "id": "",
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [],
@@ -9346,7 +9346,7 @@
           "warnings": 0,
           "id": "",
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [],
@@ -9382,7 +9382,7 @@
           "warnings": 0,
           "id": "",
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [],
@@ -9418,7 +9418,7 @@
           "warnings": 0,
           "id": "",
           "chunks": [
-            27
+            718
           ],
           "assets": [],
           "reasons": [],
@@ -9433,7 +9433,7 @@
           "module": "",
           "moduleIdentifier": "",
           "moduleName": "",
-          "loc": "react-dropdown-tree-select",
+          "loc": "react-dropdown-tree-select-wrapper",
           "request": "./src/index.js"
         }
       ]
@@ -9467,7 +9467,7 @@
       "warnings": 0,
       "id": 442,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -9481,7 +9481,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./src/index.js",
-          "loc": "react-dropdown-tree-select",
+          "loc": "react-dropdown-tree-select-wrapper",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -12319,7 +12319,7 @@
       "id": 697,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -16107,7 +16107,7 @@
       "id": 787,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -18980,7 +18980,7 @@
       "id": 703,
       "issuerId": 697,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -19700,7 +19700,7 @@
       "id": 385,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -20260,7 +20260,7 @@
       "id": null,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -20522,7 +20522,7 @@
       "id": 414,
       "issuerId": 703,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -20610,7 +20610,7 @@
       "id": null,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -20949,7 +20949,7 @@
       "id": 865,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -21254,7 +21254,7 @@
       "id": null,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -21614,7 +21614,7 @@
       "id": null,
       "issuerId": null,
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [
@@ -22267,7 +22267,7 @@
       "warnings": 0,
       "id": "",
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [],
@@ -22302,7 +22302,7 @@
       "warnings": 0,
       "id": "",
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [],
@@ -22337,7 +22337,7 @@
       "warnings": 0,
       "id": "",
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [],
@@ -22372,7 +22372,7 @@
       "warnings": 0,
       "id": "",
       "chunks": [
-        27
+        718
       ],
       "assets": [],
       "reasons": [],
@@ -22383,10 +22383,10 @@
     }
   ],
   "entrypoints": {
-    "react-dropdown-tree-select": {
-      "name": "react-dropdown-tree-select",
+    "react-dropdown-tree-select-wrapper": {
+      "name": "react-dropdown-tree-select-wrapper",
       "chunks": [
-        27
+        718
       ],
       "assets": [
         {
@@ -22394,16 +22394,16 @@
           "size": 2490
         },
         {
-          "name": "react-dropdown-tree-select.js",
-          "size": 76434
+          "name": "react-dropdown-tree-select-wrapper.js",
+          "size": 76450
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78924,
+      "assetsSize": 78940,
       "auxiliaryAssets": [
         {
-          "name": "react-dropdown-tree-select.js.map",
-          "size": 147057
+          "name": "react-dropdown-tree-select-wrapper.js.map",
+          "size": 147065
         },
         {
           "name": "styles.css.map",
@@ -22411,17 +22411,17 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151716,
+      "auxiliaryAssetsSize": 151724,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
     }
   },
   "namedChunkGroups": {
-    "react-dropdown-tree-select": {
-      "name": "react-dropdown-tree-select",
+    "react-dropdown-tree-select-wrapper": {
+      "name": "react-dropdown-tree-select-wrapper",
       "chunks": [
-        27
+        718
       ],
       "assets": [
         {
@@ -22429,16 +22429,16 @@
           "size": 2490
         },
         {
-          "name": "react-dropdown-tree-select.js",
-          "size": 76434
+          "name": "react-dropdown-tree-select-wrapper.js",
+          "size": 76450
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78924,
+      "assetsSize": 78940,
       "auxiliaryAssets": [
         {
-          "name": "react-dropdown-tree-select.js.map",
-          "size": 147057
+          "name": "react-dropdown-tree-select-wrapper.js.map",
+          "size": 147065
         },
         {
           "name": "styles.css.map",
@@ -22446,7 +22446,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151716,
+      "auxiliaryAssetsSize": 151724,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false

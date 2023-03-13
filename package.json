@@ -1,46 +1,36 @@
 {
-  "name": "react-dropdown-tree-select",
-  "version": "0.0.0-semantic-release",
-  "description": "Lightweight, customizable and fast Dropdown Tree Select component for React",
+  "name": "react-dropdown-tree-select-wrapper",
+  "version": "0.0.1",
+  "description": "A wrapper around the npm package react-dropdown-tree-select",
   "keywords": [
-    "react",
-    "tree-select",
-    "dropdown",
-    "dropdown-tree-select",
-    "react-dropdown-tree-select",
-    "checkbox-tree",
-    "checkbox-select",
-    "checkbox-tree-select",
-    "checkbox-dropdown-tree-select",
-    "fast",
-    "customizable",
-    "lightweight",
-    "searchable",
-    "search"
+    "datalogz-tree-select"
   ],
-  "main": "dist/react-dropdown-tree-select.js",
-  "types": "dist/react-dropdown-tree-select.d.ts",
-  "repository": "https://github.com/dowjones/react-dropdown-tree-select.git",
+  "main": "dist/react-dropdown-tree-select-wrapper.js",
+  "types": "dist/react-dropdown-tree-select-wrapper.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arif-js/datalogz-custom-tree-select.git"
+  },
   "author": "Hrusikesh Panda <hrusikesh.panda@dowjones.com>",
   "license": "MIT",
   "scripts": {
     "build": "rimraf dist/**/* && cross-env NODE_ENV=production webpack --config webpack.config.js --bail --mode=production",
-    "build:docs": "yarn build && cross-env NODE_ENV=production webpack --config docs/webpack.config.js --bail --mode=production",
+    "build:docs": "npm run build && cross-env NODE_ENV=production webpack --config docs/webpack.config.js --bail --mode=production",
     "commit": "git-cz",
-    "coveralls": "yarn test && c8 report --reporter=text-lcov | coveralls",
+    "coveralls": "npm run test && c8 report --reporter=text-lcov | coveralls",
     "demo": "rimraf ./docs/bundle.js && webpack-serve --content ./docs --port 3000 --open --config docs/webpack.config.js",
-    "prepublishOnly": "yarn build",
+    "prepublishOnly": "npm run build",
     "lint": "eslint --fix src docs webpack.config.js && stylelint --fix \"src/**/*.css\"",
     "lint:nofix": "eslint src webpack.config.js && stylelint \"src/**/*.css\"",
     "format": "prettier-eslint --write \"src/**/*.js\" \"docs/**/*.js\" webpack.config.js",
     "test": "cross-env NODE_ENV=test c8 ava",
-    "test:cov": "yarn test && c8 --reporter=lcov report",
+    "test:cov": "npm run test && c8 --reporter=lcov report",
     "test:watch": "cross-env NODE_ENV=test ava --watch",
     "semantic-release": "semantic-release",
     "contributors": "all-contributors add && all-contributors generate"
   },
   "files": [
-    "dist/react-dropdown-tree-select.*",
+    "dist/react-dropdown-tree-select-wrapper.*",
     "dist/styles.*"
   ],
   "dependencies": {
@@ -157,16 +147,17 @@
       "git add -f"
     ]
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "release": {
     "comment": "This is for semantic-release configuration",
     "branches": [
       "main"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/arif-js/datalogz-custom-tree-select/issues"
+  },
+  "homepage": "https://github.com/arif-js/datalogz-custom-tree-select#readme",
+  "directories": {
+    "doc": "docs"
   }
 }

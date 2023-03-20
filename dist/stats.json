@@ -1,8 +1,8 @@
 {
-  "hash": "ddab0b398fda73630b3b",
+  "hash": "0d60e35a400e91f9a82a",
   "version": "5.75.0",
-  "time": 4172,
-  "builtAt": 1679303881087,
+  "time": 4430,
+  "builtAt": 1679305393554,
   "publicPath": "auto",
   "outputPath": "/home/arif/Desktop/datalogz/react-dropdown-tree-select-main/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
     {
       "type": "asset",
       "name": "react-dropdown-tree-select-wrapper.js",
-      "size": 76469,
+      "size": 76512,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -26,7 +26,7 @@
           "license": "react-dropdown-tree-select-wrapper.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select-wrapper.js.map"
         },
-        "size": 76469
+        "size": 76512
       },
       "chunkNames": [
         "react-dropdown-tree-select-wrapper"
@@ -39,13 +39,13 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147071,
+          "size": 147150,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 147071
+            "size": 147150
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -167,9 +167,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 165606,
+      "size": 165674,
       "sizes": {
-        "javascript": 162221,
+        "javascript": 162289,
         "css/mini-extract": 2448,
         "runtime": 937
       },
@@ -188,7 +188,7 @@
         "react-dropdown-tree-select-wrapper.js.map",
         "styles.css.map"
       ],
-      "hash": "70b9a345c6bbc8ea2a99",
+      "hash": "be4cc8241b15a1ec57c5",
       "childrenByOrder": {},
       "id": 718,
       "siblings": [],
@@ -2004,7 +2004,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "130:6-33",
+              "loc": "132:6-33",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2018,7 +2018,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "131:11-26",
+              "loc": "133:11-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2032,7 +2032,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "132:9-25",
+              "loc": "134:9-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2046,7 +2046,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "133:9-36",
+              "loc": "135:9-36",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2060,7 +2060,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "134:9-36",
+              "loc": "136:9-36",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2074,7 +2074,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "135:11-25",
+              "loc": "137:11-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2088,7 +2088,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "136:11-25",
+              "loc": "138:11-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2102,7 +2102,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "137:12-26",
+              "loc": "139:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2116,7 +2116,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "138:11-27",
+              "loc": "140:11-27",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2130,7 +2130,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "139:8-23",
+              "loc": "141:8-23",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2144,7 +2144,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "140:25-39",
+              "loc": "142:25-39",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2158,7 +2158,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "141:20-34",
+              "loc": "143:20-34",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2172,7 +2172,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "142:12-26",
+              "loc": "144:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2186,7 +2186,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "143:12-28",
+              "loc": "145:12-28",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -3572,7 +3572,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "130:6-33",
+              "loc": "132:6-33",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3586,7 +3586,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "131:11-26",
+              "loc": "133:11-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3600,7 +3600,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "132:9-25",
+              "loc": "134:9-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3614,7 +3614,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "133:9-36",
+              "loc": "135:9-36",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3628,7 +3628,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "134:9-36",
+              "loc": "136:9-36",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3642,7 +3642,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "135:11-25",
+              "loc": "137:11-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3656,7 +3656,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "136:11-25",
+              "loc": "138:11-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3670,7 +3670,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "137:12-26",
+              "loc": "139:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3684,7 +3684,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "138:11-27",
+              "loc": "140:11-27",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3698,7 +3698,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "139:8-23",
+              "loc": "141:8-23",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3712,7 +3712,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "140:25-39",
+              "loc": "142:25-39",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3726,7 +3726,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "141:20-34",
+              "loc": "143:20-34",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3740,7 +3740,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "142:12-26",
+              "loc": "144:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3754,7 +3754,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "143:12-28",
+              "loc": "145:12-28",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -4438,9 +4438,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 135580,
+          "size": 135648,
           "sizes": {
-            "javascript": 135580
+            "javascript": 135648
           },
           "built": true,
           "codeGenerated": true,
@@ -6838,9 +6838,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 7681,
+              "size": 7749,
               "sizes": {
-                "javascript": 7681
+                "javascript": 7749
               },
               "built": true,
               "codeGenerated": false,
@@ -6920,7 +6920,7 @@
                 "default"
               ],
               "optimizationBailout": [
-                "Statement (ExpressionStatement) with side effects in source code at 129:0-144:3"
+                "Statement (ExpressionStatement) with side effects in source code at 131:0-146:3"
               ],
               "depth": 3
             },
@@ -7188,7 +7188,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../checkbox",
-                  "loc": "114:58-66",
+                  "loc": "113:58-66",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -7284,7 +7284,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../radio",
-                  "loc": "110:67-78",
+                  "loc": "109:67-78",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -8305,7 +8305,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "110:47-66",
+              "loc": "109:47-66",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8319,7 +8319,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "114:38-57",
+              "loc": "113:38-57",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8347,7 +8347,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "118:93-112",
+              "loc": "120:23-42",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8361,7 +8361,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "120:30-49",
+              "loc": "122:30-49",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8375,7 +8375,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "127:2-15",
+              "loc": "129:2-15",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -9005,7 +9005,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "110:47-66",
+              "loc": "109:47-66",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9019,7 +9019,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "114:38-57",
+              "loc": "113:38-57",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9047,7 +9047,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "118:93-112",
+              "loc": "120:23-42",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9061,7 +9061,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "120:30-49",
+              "loc": "122:30-49",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9075,7 +9075,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "127:2-15",
+              "loc": "129:2-15",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9444,9 +9444,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 135580,
+      "size": 135648,
       "sizes": {
-        "javascript": 135580
+        "javascript": 135648
       },
       "built": true,
       "codeGenerated": true,
@@ -11822,9 +11822,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 7681,
+          "size": 7749,
           "sizes": {
-            "javascript": 7681
+            "javascript": 7749
           },
           "built": true,
           "codeGenerated": false,
@@ -11903,7 +11903,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "Statement (ExpressionStatement) with side effects in source code at 129:0-144:3"
+            "Statement (ExpressionStatement) with side effects in source code at 131:0-146:3"
           ],
           "depth": 3
         },
@@ -12168,7 +12168,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../checkbox",
-              "loc": "114:58-66",
+              "loc": "113:58-66",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -12263,7 +12263,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../radio",
-              "loc": "110:67-78",
+              "loc": "109:67-78",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -13873,7 +13873,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "130:6-33",
+          "loc": "132:6-33",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13887,7 +13887,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "131:11-26",
+          "loc": "133:11-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13901,7 +13901,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "132:9-25",
+          "loc": "134:9-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13915,7 +13915,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "133:9-36",
+          "loc": "135:9-36",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13929,7 +13929,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "134:9-36",
+          "loc": "136:9-36",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13943,7 +13943,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "135:11-25",
+          "loc": "137:11-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13957,7 +13957,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "136:11-25",
+          "loc": "138:11-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13971,7 +13971,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "137:12-26",
+          "loc": "139:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13985,7 +13985,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "138:11-27",
+          "loc": "140:11-27",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13999,7 +13999,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "139:8-23",
+          "loc": "141:8-23",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -14013,7 +14013,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "140:25-39",
+          "loc": "142:25-39",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -14027,7 +14027,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "141:20-34",
+          "loc": "143:20-34",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -14041,7 +14041,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "142:12-26",
+          "loc": "144:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -14055,7 +14055,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "143:12-28",
+          "loc": "145:12-28",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -15441,7 +15441,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "130:6-33",
+          "loc": "132:6-33",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15455,7 +15455,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "131:11-26",
+          "loc": "133:11-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15469,7 +15469,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "132:9-25",
+          "loc": "134:9-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15483,7 +15483,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "133:9-36",
+          "loc": "135:9-36",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15497,7 +15497,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "134:9-36",
+          "loc": "136:9-36",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15511,7 +15511,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "135:11-25",
+          "loc": "137:11-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15525,7 +15525,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "136:11-25",
+          "loc": "138:11-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15539,7 +15539,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "137:12-26",
+          "loc": "139:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15553,7 +15553,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "138:11-27",
+          "loc": "140:11-27",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15567,7 +15567,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "139:8-23",
+          "loc": "141:8-23",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15581,7 +15581,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "140:25-39",
+          "loc": "142:25-39",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15595,7 +15595,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "141:20-34",
+          "loc": "143:20-34",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15609,7 +15609,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "142:12-26",
+          "loc": "144:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15623,7 +15623,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "143:12-28",
+          "loc": "145:12-28",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -16779,7 +16779,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "110:47-66",
+          "loc": "109:47-66",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16793,7 +16793,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "114:38-57",
+          "loc": "113:38-57",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16821,7 +16821,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "118:93-112",
+          "loc": "120:23-42",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16835,7 +16835,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "120:30-49",
+          "loc": "122:30-49",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16849,7 +16849,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "127:2-15",
+          "loc": "129:2-15",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -17479,7 +17479,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "110:47-66",
+          "loc": "109:47-66",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17493,7 +17493,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "114:38-57",
+          "loc": "113:38-57",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17521,7 +17521,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "118:93-112",
+          "loc": "120:23-42",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17535,7 +17535,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "120:30-49",
+          "loc": "122:30-49",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17549,7 +17549,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "127:2-15",
+          "loc": "129:2-15",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -20728,9 +20728,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 7681,
+      "size": 7749,
       "sizes": {
-        "javascript": 7681
+        "javascript": 7749
       },
       "built": true,
       "codeGenerated": false,
@@ -20809,7 +20809,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "Statement (ExpressionStatement) with side effects in source code at 129:0-144:3"
+        "Statement (ExpressionStatement) with side effects in source code at 131:0-146:3"
       ],
       "depth": 3
     },
@@ -21451,7 +21451,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../checkbox",
-          "loc": "114:58-66",
+          "loc": "113:58-66",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -21546,7 +21546,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../radio",
-          "loc": "110:67-78",
+          "loc": "109:67-78",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -22395,15 +22395,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76469
+          "size": 76512
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78959,
+      "assetsSize": 79002,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147071
+          "size": 147150
         },
         {
           "name": "styles.css.map",
@@ -22411,7 +22411,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151730,
+      "auxiliaryAssetsSize": 151809,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -22430,15 +22430,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76469
+          "size": 76512
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78959,
+      "assetsSize": 79002,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147071
+          "size": 147150
         },
         {
           "name": "styles.css.map",
@@ -22446,7 +22446,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151730,
+      "auxiliaryAssetsSize": 151809,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false

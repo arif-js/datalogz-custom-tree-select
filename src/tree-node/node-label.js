@@ -53,7 +53,7 @@ class NodeLabel extends PureComponent {
     const className = ['checkbox-item', mode === 'simpleSelect' && 'simple-select'].filter(Boolean).join(' ')
 
     return (
-      <label title={title || label} htmlFor={id} className='d-flex gap-2'>
+      <div title={title || label} htmlFor={id} className='d-flex gap-2 m-0 p-0'>
         {mode === 'radioSelect' ? (
           <RadioButton name={clientId} className="radio-item" onChange={this.handleCheckboxChange} {...sharedProps} />
         ) : (
@@ -65,11 +65,11 @@ class NodeLabel extends PureComponent {
             {...sharedProps}
           />
         )}
-        <div {...nodeLabelProps} onClick={this.handleCheckboxChange}>
+        <div {...nodeLabelProps}>
           <p className='text-primary m-0'>{label}</p>
           <p className='text-secondary m-0'>{description}</p>
         </div>
-      </label>
+      </div>
     )
   }
 }

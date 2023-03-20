@@ -24,7 +24,7 @@ class Checkbox extends PureComponent {
 
     return (
       <input
-        type="checkbox"
+        type="checkbox form-check-input"
         ref={refUpdater({ checked, indeterminate })}
         onChange={onChange}
         disabled={isDisabled}

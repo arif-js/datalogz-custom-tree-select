@@ -24,11 +24,12 @@ class Checkbox extends PureComponent {
 
     return (
       <input
-        type="checkbox form-check-input"
+        type="checkbox"
         ref={refUpdater({ checked, indeterminate })}
         onChange={onChange}
         disabled={isDisabled}
         {...rest}
+        style={{ height: '15px', width: '15px' }}
       />
     )
   }

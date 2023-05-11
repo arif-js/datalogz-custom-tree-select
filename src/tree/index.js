@@ -62,7 +62,7 @@ class Tree extends Component {
   shouldRenderNode = (node, props) => {
     const { data, searchModeOn } = props
     const { expanded, _parent } = node
-    if (searchModeOn || expanded) return true
+    if (expanded) return true
 
     const parent = _parent && data.get(_parent)
     // if it has a parent, then check parent's state.

@@ -1,8 +1,8 @@
 {
-  "hash": "10ef93dbb20245ca0157",
+  "hash": "1c36ba644f814c415f7e",
   "version": "5.75.0",
-  "time": 3632,
-  "builtAt": 1679306989945,
+  "time": 5004,
+  "builtAt": 1683804539571,
   "publicPath": "auto",
   "outputPath": "/home/arif/Desktop/datalogz/react-dropdown-tree-select-main/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
     {
       "type": "asset",
       "name": "react-dropdown-tree-select-wrapper.js",
-      "size": 76537,
+      "size": 76564,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -26,7 +26,7 @@
           "license": "react-dropdown-tree-select-wrapper.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select-wrapper.js.map"
         },
-        "size": 76537
+        "size": 76564
       },
       "chunkNames": [
         "react-dropdown-tree-select-wrapper"
@@ -39,13 +39,13 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147199,
+          "size": 147271,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 147199
+            "size": 147271
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -167,9 +167,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 165705,
+      "size": 165770,
       "sizes": {
-        "javascript": 162320,
+        "javascript": 162385,
         "css/mini-extract": 2448,
         "runtime": 937
       },
@@ -188,7 +188,7 @@
         "react-dropdown-tree-select-wrapper.js.map",
         "styles.css.map"
       ],
-      "hash": "4b0922e0abc61792e3b8",
+      "hash": "9490a8187beef661df8b",
       "childrenByOrder": {},
       "id": 718,
       "siblings": [],
@@ -478,7 +478,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "86:11-25",
+              "loc": "91:11-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -492,7 +492,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "87:17-31",
+              "loc": "92:17-31",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -506,7 +506,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "88:12-26",
+              "loc": "93:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -520,7 +520,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "89:12-26",
+              "loc": "94:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -534,7 +534,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "90:12-26",
+              "loc": "95:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -562,7 +562,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "86:11-25",
+              "loc": "91:11-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -576,7 +576,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "87:17-31",
+              "loc": "92:17-31",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -590,7 +590,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "88:12-26",
+              "loc": "93:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -604,7 +604,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "89:12-26",
+              "loc": "94:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -618,7 +618,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "90:12-26",
+              "loc": "95:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -4438,9 +4438,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 135679,
+          "size": 135744,
           "sizes": {
-            "javascript": 135679
+            "javascript": 135744
           },
           "built": true,
           "codeGenerated": true,
@@ -5326,9 +5326,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 9885,
+              "size": 9869,
               "sizes": {
-                "javascript": 9885
+                "javascript": 9869
               },
               "built": true,
               "codeGenerated": false,
@@ -6838,9 +6838,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 7763,
+              "size": 7773,
               "sizes": {
-                "javascript": 7763
+                "javascript": 7773
               },
               "built": true,
               "codeGenerated": false,
@@ -7113,9 +7113,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 6252,
+              "size": 6323,
               "sizes": {
-                "javascript": 6252
+                "javascript": 6323
               },
               "built": true,
               "codeGenerated": false,
@@ -7201,7 +7201,7 @@
                 "refUpdater"
               ],
               "optimizationBailout": [
-                "Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"
+                "Statement (ExpressionStatement) with side effects in source code at 90:0-96:3"
               ],
               "depth": 4
             },
@@ -7675,7 +7675,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "83:2-15",
+              "loc": "88:2-15",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -7717,7 +7717,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "83:2-15",
+              "loc": "88:2-15",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -9444,9 +9444,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 135679,
+      "size": 135744,
       "sizes": {
-        "javascript": 135679
+        "javascript": 135744
       },
       "built": true,
       "codeGenerated": true,
@@ -10325,9 +10325,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 9885,
+          "size": 9869,
           "sizes": {
-            "javascript": 9885
+            "javascript": 9869
           },
           "built": true,
           "codeGenerated": false,
@@ -11822,9 +11822,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 7763,
+          "size": 7773,
           "sizes": {
-            "javascript": 7763
+            "javascript": 7773
           },
           "built": true,
           "codeGenerated": false,
@@ -12094,9 +12094,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 6252,
+          "size": 6323,
           "sizes": {
-            "javascript": 6252
+            "javascript": 6323
           },
           "built": true,
           "codeGenerated": false,
@@ -12181,7 +12181,7 @@
             "refUpdater"
           ],
           "optimizationBailout": [
-            "Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"
+            "Statement (ExpressionStatement) with side effects in source code at 90:0-96:3"
           ],
           "depth": 4
         },
@@ -12347,7 +12347,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "86:11-25",
+          "loc": "91:11-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -12361,7 +12361,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "87:17-31",
+          "loc": "92:17-31",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -12375,7 +12375,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "88:12-26",
+          "loc": "93:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -12389,7 +12389,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "89:12-26",
+          "loc": "94:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -12403,7 +12403,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "90:12-26",
+          "loc": "95:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -12431,7 +12431,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "86:11-25",
+          "loc": "91:11-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -12445,7 +12445,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "87:17-31",
+          "loc": "92:17-31",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -12459,7 +12459,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "88:12-26",
+          "loc": "93:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -12473,7 +12473,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "89:12-26",
+          "loc": "94:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -12487,7 +12487,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "90:12-26",
+          "loc": "95:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16149,7 +16149,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "83:2-15",
+          "loc": "88:2-15",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -16191,7 +16191,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "83:2-15",
+          "loc": "88:2-15",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -18529,9 +18529,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 9885,
+      "size": 9869,
       "sizes": {
-        "javascript": 9885
+        "javascript": 9869
       },
       "built": true,
       "codeGenerated": false,
@@ -20728,9 +20728,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 7763,
+      "size": 7773,
       "sizes": {
-        "javascript": 7763
+        "javascript": 7773
       },
       "built": true,
       "codeGenerated": false,
@@ -21377,9 +21377,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 6252,
+      "size": 6323,
       "sizes": {
-        "javascript": 6252
+        "javascript": 6323
       },
       "built": true,
       "codeGenerated": false,
@@ -21464,7 +21464,7 @@
         "refUpdater"
       ],
       "optimizationBailout": [
-        "Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"
+        "Statement (ExpressionStatement) with side effects in source code at 90:0-96:3"
       ],
       "depth": 4
     },
@@ -22395,15 +22395,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76537
+          "size": 76564
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 79027,
+      "assetsSize": 79054,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147199
+          "size": 147271
         },
         {
           "name": "styles.css.map",
@@ -22411,7 +22411,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151858,
+      "auxiliaryAssetsSize": 151930,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -22430,15 +22430,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76537
+          "size": 76564
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 79027,
+      "assetsSize": 79054,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147199
+          "size": 147271
         },
         {
           "name": "styles.css.map",
@@ -22446,7 +22446,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151858,
+      "auxiliaryAssetsSize": 151930,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false

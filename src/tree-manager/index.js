@@ -99,6 +99,7 @@ class TreeManager {
 
       // add a marker to tell `addParentsToTree` to not hide this node; even if it's an ancestor node
       node._isMatch = true
+      node.expanded = true
 
       if (keepTreeOnSearch) {
         // add parent nodes first or else the tree won't be rendered in correct hierarchy

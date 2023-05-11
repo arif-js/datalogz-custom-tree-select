@@ -1,8 +1,8 @@
 {
-  "hash": "1c36ba644f814c415f7e",
+  "hash": "c7092e25d74373da258a",
   "version": "5.75.0",
-  "time": 4236,
-  "builtAt": 1683804690443,
+  "time": 4334,
+  "builtAt": 1683807977923,
   "publicPath": "auto",
   "outputPath": "/home/arif/Desktop/datalogz/react-dropdown-tree-select-main/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
     {
       "type": "asset",
       "name": "react-dropdown-tree-select-wrapper.js",
-      "size": 76564,
+      "size": 76529,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -26,7 +26,7 @@
           "license": "react-dropdown-tree-select-wrapper.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select-wrapper.js.map"
         },
-        "size": 76564
+        "size": 76529
       },
       "chunkNames": [
         "react-dropdown-tree-select-wrapper"
@@ -39,13 +39,13 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147271,
+          "size": 147202,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 147271
+            "size": 147202
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -167,9 +167,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 165770,
+      "size": 165726,
       "sizes": {
-        "javascript": 162385,
+        "javascript": 162341,
         "css/mini-extract": 2448,
         "runtime": 937
       },
@@ -188,7 +188,7 @@
         "react-dropdown-tree-select-wrapper.js.map",
         "styles.css.map"
       ],
-      "hash": "9490a8187beef661df8b",
+      "hash": "e15fd48eee55bc4cccfb",
       "childrenByOrder": {},
       "id": 718,
       "siblings": [],
@@ -4438,9 +4438,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 135744,
+          "size": 135700,
           "sizes": {
-            "javascript": 135744
+            "javascript": 135700
           },
           "built": true,
           "codeGenerated": true,
@@ -5326,9 +5326,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 9869,
+              "size": 9825,
               "sizes": {
-                "javascript": 9869
+                "javascript": 9825
               },
               "built": true,
               "codeGenerated": false,
@@ -9444,9 +9444,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 135744,
+      "size": 135700,
       "sizes": {
-        "javascript": 135744
+        "javascript": 135700
       },
       "built": true,
       "codeGenerated": true,
@@ -10325,9 +10325,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 9869,
+          "size": 9825,
           "sizes": {
-            "javascript": 9869
+            "javascript": 9825
           },
           "built": true,
           "codeGenerated": false,
@@ -18529,9 +18529,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 9869,
+      "size": 9825,
       "sizes": {
-        "javascript": 9869
+        "javascript": 9825
       },
       "built": true,
       "codeGenerated": false,
@@ -22395,15 +22395,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76564
+          "size": 76529
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 79054,
+      "assetsSize": 79019,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147271
+          "size": 147202
         },
         {
           "name": "styles.css.map",
@@ -22411,7 +22411,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151930,
+      "auxiliaryAssetsSize": 151861,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -22430,15 +22430,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76564
+          "size": 76529
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 79054,
+      "assetsSize": 79019,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147271
+          "size": 147202
         },
         {
           "name": "styles.css.map",
@@ -22446,7 +22446,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151930,
+      "auxiliaryAssetsSize": 151861,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false

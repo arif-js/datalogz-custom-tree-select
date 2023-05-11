@@ -1,8 +1,8 @@
 {
-  "hash": "c7092e25d74373da258a",
+  "hash": "66ee1dc5724cf917afe5",
   "version": "5.75.0",
-  "time": 4334,
-  "builtAt": 1683807977923,
+  "time": 4814,
+  "builtAt": 1683809987937,
   "publicPath": "auto",
   "outputPath": "/home/arif/Desktop/datalogz/react-dropdown-tree-select-main/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
     {
       "type": "asset",
       "name": "react-dropdown-tree-select-wrapper.js",
-      "size": 76529,
+      "size": 76543,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -26,7 +26,7 @@
           "license": "react-dropdown-tree-select-wrapper.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select-wrapper.js.map"
         },
-        "size": 76529
+        "size": 76543
       },
       "chunkNames": [
         "react-dropdown-tree-select-wrapper"
@@ -39,13 +39,13 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147202,
+          "size": 147249,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 147202
+            "size": 147249
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -167,9 +167,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 165726,
+      "size": 165756,
       "sizes": {
-        "javascript": 162341,
+        "javascript": 162371,
         "css/mini-extract": 2448,
         "runtime": 937
       },
@@ -188,7 +188,7 @@
         "react-dropdown-tree-select-wrapper.js.map",
         "styles.css.map"
       ],
-      "hash": "e15fd48eee55bc4cccfb",
+      "hash": "2f8581be0e20cff6d192",
       "childrenByOrder": {},
       "id": 718,
       "siblings": [],
@@ -4438,9 +4438,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 135700,
+          "size": 135730,
           "sizes": {
-            "javascript": 135700
+            "javascript": 135730
           },
           "built": true,
           "codeGenerated": true,
@@ -4739,7 +4739,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../utils",
-                  "loc": "277:11-18",
+                  "loc": "278:11-18",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -4753,7 +4753,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../utils",
-                  "loc": "298:11-18",
+                  "loc": "299:11-18",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -5406,9 +5406,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 12135,
+              "size": 12165,
               "sizes": {
-                "javascript": 12135
+                "javascript": 12165
               },
               "built": true,
               "codeGenerated": false,
@@ -5616,7 +5616,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./keyboardNavigation",
-                  "loc": "347:19-47",
+                  "loc": "348:19-47",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -5630,7 +5630,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./keyboardNavigation",
-                  "loc": "349:10-30",
+                  "loc": "350:10-30",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -5644,7 +5644,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./keyboardNavigation",
-                  "loc": "350:23-66",
+                  "loc": "351:23-66",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -5658,7 +5658,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./keyboardNavigation",
-                  "loc": "359:13-57",
+                  "loc": "360:13-57",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -6502,7 +6502,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./getPartialState",
-                  "loc": "239:23-38",
+                  "loc": "240:23-38",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -6516,7 +6516,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./getPartialState",
-                  "loc": "261:23-38",
+                  "loc": "262:23-38",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -6686,7 +6686,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./nodeVisitor",
-                  "loc": "317:13-41",
+                  "loc": "318:13-41",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -6700,7 +6700,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./nodeVisitor",
-                  "loc": "320:10-40",
+                  "loc": "321:10-40",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -9444,9 +9444,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 135700,
+      "size": 135730,
       "sizes": {
-        "javascript": 135700
+        "javascript": 135730
       },
       "built": true,
       "codeGenerated": true,
@@ -9742,7 +9742,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../utils",
-              "loc": "277:11-18",
+              "loc": "278:11-18",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9756,7 +9756,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "../utils",
-              "loc": "298:11-18",
+              "loc": "299:11-18",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -10404,9 +10404,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 12135,
+          "size": 12165,
           "sizes": {
-            "javascript": 12135
+            "javascript": 12165
           },
           "built": true,
           "codeGenerated": false,
@@ -10612,7 +10612,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./keyboardNavigation",
-              "loc": "347:19-47",
+              "loc": "348:19-47",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -10626,7 +10626,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./keyboardNavigation",
-              "loc": "349:10-30",
+              "loc": "350:10-30",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -10640,7 +10640,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./keyboardNavigation",
-              "loc": "350:23-66",
+              "loc": "351:23-66",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -10654,7 +10654,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./keyboardNavigation",
-              "loc": "359:13-57",
+              "loc": "360:13-57",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -11489,7 +11489,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./getPartialState",
-              "loc": "239:23-38",
+              "loc": "240:23-38",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -11503,7 +11503,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./getPartialState",
-              "loc": "261:23-38",
+              "loc": "262:23-38",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -11671,7 +11671,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./nodeVisitor",
-              "loc": "317:13-41",
+              "loc": "318:13-41",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -11685,7 +11685,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./nodeVisitor",
-              "loc": "320:10-40",
+              "loc": "321:10-40",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -17946,7 +17946,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../utils",
-          "loc": "277:11-18",
+          "loc": "278:11-18",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17960,7 +17960,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "../utils",
-          "loc": "298:11-18",
+          "loc": "299:11-18",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -18608,9 +18608,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 12135,
+      "size": 12165,
       "sizes": {
-        "javascript": 12135
+        "javascript": 12165
       },
       "built": true,
       "codeGenerated": false,
@@ -18816,7 +18816,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./keyboardNavigation",
-          "loc": "347:19-47",
+          "loc": "348:19-47",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -18830,7 +18830,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./keyboardNavigation",
-          "loc": "349:10-30",
+          "loc": "350:10-30",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -18844,7 +18844,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./keyboardNavigation",
-          "loc": "350:23-66",
+          "loc": "351:23-66",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -18858,7 +18858,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./keyboardNavigation",
-          "loc": "359:13-57",
+          "loc": "360:13-57",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -19979,7 +19979,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./getPartialState",
-          "loc": "239:23-38",
+          "loc": "240:23-38",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -19993,7 +19993,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./getPartialState",
-          "loc": "261:23-38",
+          "loc": "262:23-38",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -20161,7 +20161,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./nodeVisitor",
-          "loc": "317:13-41",
+          "loc": "318:13-41",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -20175,7 +20175,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./nodeVisitor",
-          "loc": "320:10-40",
+          "loc": "321:10-40",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -22395,15 +22395,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76529
+          "size": 76543
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 79019,
+      "assetsSize": 79033,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147202
+          "size": 147249
         },
         {
           "name": "styles.css.map",
@@ -22411,7 +22411,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151861,
+      "auxiliaryAssetsSize": 151908,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -22430,15 +22430,15 @@
         },
         {
           "name": "react-dropdown-tree-select-wrapper.js",
-          "size": 76529
+          "size": 76543
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 79019,
+      "assetsSize": 79033,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select-wrapper.js.map",
-          "size": 147202
+          "size": 147249
         },
         {
           "name": "styles.css.map",
@@ -22446,7 +22446,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 151861,
+      "auxiliaryAssetsSize": 151908,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false

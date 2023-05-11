@@ -68,6 +68,7 @@ class TreeManager {
       const node = this.getNodeById(id)
       this.addParentsToTree(node._parent, tree)
       node.hide = node._isMatch ? node.hide : true
+      node.expanded = true
       node.matchInChildren = true
       tree.set(id, node)
     }
@@ -99,7 +100,6 @@ class TreeManager {
 
       // add a marker to tell `addParentsToTree` to not hide this node; even if it's an ancestor node
       node._isMatch = true
-      node.expanded = true
 
       if (keepTreeOnSearch) {
         // add parent nodes first or else the tree won't be rendered in correct hierarchy

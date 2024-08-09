@@ -118,7 +118,7 @@ class TreeNode extends PureComponent {
     const liId = `${_id}_li`
 
     return (
-      <li className={`${liCx} d-flex align-items-center`} style={style} id={liId} {...getDataset(dataset)} {...this.getAriaAttributes()}>
+      <li className={`${liCx} flex items-center gap-2`} style={style} id={liId} {...getDataset(dataset)} {...this.getAriaAttributes()}>
         <Toggle isLeaf={isLeaf(_children)} expanded={expanded} id={_id} onNodeToggle={onNodeToggle} />
         <NodeLabel
           title={title}

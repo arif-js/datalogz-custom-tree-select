@@ -13,15 +13,15 @@ This is not a general-purpose open source replacement — it's tailored to Datal
 
 ## Installation
 
-\`\`\`bash
+```bash
 npm install datalogz-custom-tree-select
 # or, if not published to npm yet:
 npm install github:arif-js/datalogz-custom-tree-select
-\`\`\`
+```
 
 ## Usage
 
-\`\`\`jsx
+```jsx
 import DropdownTreeSelect from 'datalogz-custom-tree-select'
 import 'datalogz-custom-tree-select/dist/styles.css'
 
@@ -34,7 +34,7 @@ const data = {
 function Example() {
   return <DropdownTreeSelect data={data} onChange={(currentNode, selectedNodes) => console.log(selectedNodes)} />
 }
-\`\`\`
+```
 
 ## What's different from upstream
 
@@ -48,16 +48,12 @@ Most props and core behavior are unchanged from upstream — see the [original d
 
 ## Development
 
-\`\`\`bash
+```bash
 npm install
 npm run build       # builds dist/
 npm run demo        # local demo playground
 npm run test        # runs the test suite
-\`\`\`
-
-## Publishing
-
-[Describe your release process here — manual `npm publish`, semantic-release, internal registry, etc.]
+```
 
 ## Credits & License
 
